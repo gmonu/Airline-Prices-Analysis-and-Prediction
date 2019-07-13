@@ -1,1 +1,1 @@
-# Project
+This is our project based on airline prices analysis and prediction using ML model mainly Decision Tree algorithm. In this project, different features like Duration, Route, Airline, etc have influence on the price of a ticket. Basically, we are finding that feature having a lot impact on the target named Price by drawing out the score and mean square error via Decision Tree model.
